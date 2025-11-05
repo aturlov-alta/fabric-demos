@@ -1,0 +1,4 @@
+# Code owners for the Fabric SQL demo folder
+# See https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+/fabric-sql-demo/** @aturlov-alta
